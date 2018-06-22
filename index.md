@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Student Data Privacy
+landing-title: 'General Student Privacy Information'
 description: null
 image: null
 author: null

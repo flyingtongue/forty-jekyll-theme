@@ -1,6 +1,6 @@
 # site settings
 title: Student Data Privacy
-subtitle: FERPA 
+subtitle: Sonoma County Office of Education
 email: youremailaddress@gmail.com
 description: Student Data Privacy 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
